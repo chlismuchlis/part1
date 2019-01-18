@@ -43,5 +43,5 @@ Result Matix : <br>
  2 1 0 6 <br>
  1 7 6 5 <br>
  5 9 3 4 <br>
-I completed test 3 within approximately 8 hour, but not at once <br>
+I completed test 3 within approximately 7 hour, but not at once <br>
 
