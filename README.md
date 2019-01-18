@@ -12,6 +12,7 @@ Give 1-100 number : (fill number 1-100, and example fill 10) <br>
 result, <br>
 Your Number : 10 <br>
 Result !N :3628800 <br>
+I completed test 1 within 1 hour <br>
  <br>
 test 2 : <br>
 input, <br>
@@ -20,6 +21,7 @@ the contents of (use space) : 4 2 <br>
 result, <br>
 yes <br>
 swap 1 2 <br>
+I completed test 2 within 2 hour <br>
  <br>
 test 3 : <br>
 input, <br>
@@ -41,4 +43,5 @@ Result Matix : <br>
  2 1 0 6 <br>
  1 7 6 5 <br>
  5 9 3 4 <br>
+I completed test 3 within approximately 8 hour, but not at once <br>
 
