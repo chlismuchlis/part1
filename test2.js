@@ -35,17 +35,17 @@ function parseLine(lines) {
         var first;
         var last;
         for (var i = 0; i < arr.length; i++) {
-		  console.log(i+'. '+arr[i]+'='+sortedArr[i]+'-----------------------------');
+		  //console.log(i+'. '+arr[i]+'='+sortedArr[i]+'-----------------------------');
           if (arr[i] !== sortedArr[i]) {
-			  console.log(i+'. typeof : '+typeof first);
+			  //console.log(i+'. typeof : '+typeof first);
               if (typeof first === "undefined") {
                   first = i;
-			      console.log(i+'.first : '+first);
+			      //console.log(i+'.first : '+first);
               }
               last = i;
-			  console.log(i+'.last : '+last);
+			  //console.log(i+'.last : '+last);
               diff++;
-			  console.log(i+'.diff : '+diff);
+			  //console.log(i+'.diff : '+diff);
           }
        } 
        if (diff === 0) {
