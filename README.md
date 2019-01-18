@@ -19,7 +19,7 @@ Array length : 2 <br>
 the contents of (use space) : 4 2 <br>
 result, <br>
 yes <br>
-reverse 2 5 <br>
+swap 1 2 <br>
  <br>
 test 3 : <br>
 input, <br>
