@@ -10,10 +10,10 @@ rl.question('Array length : ', (answer1) => {
         var result = (+answer1) + (+answer2);
         //console.log(`The sum of above two numbers is ${result}`);
 		
-		//let line = answer2;
+		let line = answer2;
 		//let line = "4 2";
 		//let line = "3 1 2";
-		let line = "1 5 4 3 2 6";
+		//let line = "1 5 4 3 2 6";
 		parseLine(line);
 	
         rl.close();
